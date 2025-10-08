@@ -1,0 +1,119 @@
+{
+    "cache_time": 7200,
+    "api_site": {
+        "360zy": {
+            "api": "https://360zyzz.com/api.php/provide/vod/at/json",
+            "name": "TV-360资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "ikunzy": {
+            "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+            "name": "TV-ikun资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "guangsuapi": {
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+            "name": "光速资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "maotaizy": {
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+            "name": "茅台资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "hongniuzy2": {
+            "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+            "name": "红牛资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "yzzy-api": {
+            "api": "https://api.yzzy-api.com/inc/apijson.php",
+            "name": "优质资源库",
+            "detail": "",
+            "is_adult": false
+        },
+        "xinlangapi": {
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
+            "name": "新浪资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "ffzyapi": {
+            "api": "http://api.ffzyapi.com/api.php/provide/vod/?ac=list",
+            "name": "非凡资源站",
+            "detail": "",
+            "is_adult": false
+        },
+        "mdzyapi": {
+            "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+            "name": "魔都资源网",
+            "detail": "",
+            "is_adult": false
+        },
+        "mozhuazy": {
+            "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list ",
+            "name": "魔爪资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "dbzy5": {
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+            "name": "豆瓣资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "apibdzy": {
+            "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+            "name": "百度资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "dyttzyapi": {
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
+            "name": "电影天堂资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "bfzyapi": {
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "name": "暴风资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "xmm": {
+            "api": "http://zy.xmm.hk/api.php/provide/vod/?ac=list",
+            "name": "小猫咪资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "rycjapi": {
+            "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
+            "name": "如意资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "tyyszyapi": {
+            "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+            "name": "天涯影视资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "collect": {
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+            "name": "卧龙资源站资源",
+            "detail": "",
+            "is_adult": false
+        },
+        "wujinapi": {
+            "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+            "name": "无尽资源网",
+            "detail": "",
+            "is_adult": false
+        }
+    }
+}
